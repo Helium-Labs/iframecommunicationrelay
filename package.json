@@ -1,6 +1,6 @@
 {
   "name": "@gradian/iframecommunicationrelay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Publish/Subscribe communication relay between an iframe and its parent window, and vice versa, using the postMessage API. Supports JSON-RPC styled communication with requests and responses.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
